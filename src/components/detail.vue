@@ -1,5 +1,6 @@
 <template>
   <div class="home" >
+      <div>加了新的东西</div>
     <div class="content">
       <div class="detail-container">
           <div class="main " >
